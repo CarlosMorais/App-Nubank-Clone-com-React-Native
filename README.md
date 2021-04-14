@@ -43,4 +43,4 @@ public class MainActivity extends ReactActivity {
 
 ## Contato
 
-Carlos Morais - [LinkedIn](https://www.linkedin.com/in/carlosmorais01) - **www.linkedin.com/carlosmorais01**
+Carlos Morais - [LinkedIn](https://www.linkedin.com/in/carlosmorais01) - **https://www.linkedin.com/in/carlosmorais01/**
