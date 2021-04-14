@@ -1,9 +1,8 @@
 </br>
 <p align="center">
-  <a href="src/assets/video1.mp4">
+  <a href="https://www.youtube.com/watch?v=ENWGf4FKtqw">
     <img src="src/assets/gif.gif" alt="Logo" height=610>
   </a>
-  [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
   </br>
   <h1 align="center">Clone Da Interface Nubank</h1>
 </p>
