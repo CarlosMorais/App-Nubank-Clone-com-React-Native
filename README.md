@@ -3,6 +3,7 @@
   <a href="src/assets/video1.mp4">
     <img src="src/assets/gif.gif" alt="Logo" height=610>
   </a>
+  [![App com React Native - Clone da interface do Nubank]](https://www.youtube.com/watch?v=ENWGf4FKtqw)
   </br>
   <h1 align="center">Clone Da Interface Nubank</h1>
 </p>
