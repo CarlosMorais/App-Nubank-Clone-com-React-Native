@@ -1,6 +1,6 @@
 </br>
 <p align="center">
-  <a href="src/assets/video.mp4">
+  <a href="src/assets/video1.mp4">
     <img src="src/assets/gif.gif" alt="Logo" height=610>
   </a>
   </br>
