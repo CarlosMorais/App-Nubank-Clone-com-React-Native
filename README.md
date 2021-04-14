@@ -1,6 +1,6 @@
 </br>
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=ENWGf4FKtqw">
+  <a href="https://www.youtube.com/watch?v=ENWGf4FKtqw" target=_blank>
     <img src="src/assets/gif.gif" alt="Logo" height=610>
   </a>
   </br>
