@@ -1,7 +1,7 @@
 </br>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=ENWGf4FKtqw" target=_blank>
-    <img src="src/assets/gif.gif" alt="Logo" height=600>
+    <img src="src/assets/gif.gif" alt="Logo" height=605>
   </a>
   </br>
   <h1 align="center">Clone Da Interface Nubank</h1>
